@@ -5,7 +5,7 @@ title: AIXilio - Blog de Infraestructura AIX y Power Systems
 description: Bitácora de infraestructura crítica, AIX e IBM Power Systems
 ---
 
-# ¡Hey, skavoovie!
+¡Hey, skavoovie!
 
 Mi nombre es Aarón y me dedico a la gestión, migración y arquitectura de infraestructura crítica en entornos con AIX y tecnologías IBM Power Systems. Ha sido un gran recorrido lleno de contrastes y muchas anécdotas: desde los momentos de tensión máxima cuando un ambiente crítico tiembla, el sentido de urgencia, hasta las risas y la satisfacción de ver todo funcionando tras horas de una ventana exitosa. Un trayecto largo e interesante que hoy me gustaría compartir con los colegas que me he encontrado a lo largo del camino.
 
