@@ -1,7 +1,6 @@
----
-layout: default
-title: "Aixilio - Blog de Infraestructura AIX y Power Systems"
----
+title: AIXilio
+description: Bitácora de infraestructura crítica, AIX e IBM Power Systems
+theme: jekyll-theme-cayman
 
 ¡Hey, skavoovie!
 
