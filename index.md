@@ -1,6 +1,10 @@
-title: AIXilio
+---
+layout: default
+title: AIXilio - Blog de Infraestructura AIX y Power Systems
 description: Bitácora de infraestructura crítica, AIX e IBM Power Systems
-theme: jekyll-theme-cayman
+---
+
+# ¡Hey, skavoovie!
 
 ¡Hey, skavoovie!
 
@@ -14,4 +18,4 @@ Ah, se me pasaba: Si te preguntabas de dónde salió o qué significa el saludo 
 
 Si llegaste hasta aquí y te encuentras con alguna situación en la que te pueda orientar, no dudes en ponerte en contacto conmigo, que yo estaré gustoso de apoyarte.
 
-Pórtate bien. ¡Saludos!
+Pórtate bien. # exit
